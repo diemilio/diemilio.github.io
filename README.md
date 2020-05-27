@@ -1,3 +1,3 @@
 # My personal blog
 
-Theme source: [Jekyll Now](https://github.com/barryclark/jekyll-now).
+Blog theme source: [Jekyll Now](https://github.com/barryclark/jekyll-now).
